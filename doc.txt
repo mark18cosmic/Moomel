@@ -1,0 +1,44 @@
+## 2 October 2023
+
+Moomel is pretty much an idea hub where users contribute and collab to implement ideas.
+
+To begin with I will make a simple front page with no functionality.
+I plan on using bulma for visual and plain html and js for this.
+
+Later on i will use MEVN stack to add functionality and better visuals. This for now is just a simple iteration to test out visuals and brainstorm more ideas.
+
+This will have basically 3 usertypes. Brainstormers, implementers and investors. Users wont particularly be able to pick their type but instead be classified as a moomer or something like that. Each moomer will be given access to make a post similar to reddit and other moomers can respond with ideas or help with coding questions and such. Unlike reddit this will provide a sort of faction (i havent really figuered out what itll be) similar to groups or circles where the owner of idea can select and give access to join. We can call this a barn for now. 
+
+A barn will be like a group/circle which is an idea or a project with users producing and brainstorming ideas. It doesnt necessarily have to be for an idea it can also be a service. The idea being a private hub for companies or people to chat and conduct business. Im aware there are things for this but Moomel will be advertised for collaborative brainstorming which i guess is pretty new. Each barn will have an owner and the owner can give certain roles to other members.
+
+Moomel will be  free for users with no popup ads (we plan to get sponsorships to fund) however we will take a small cut out of profits and provide a membership service for users who want extra features. Unlike other companies i dont plan on gatekeeping the best features for paying members but instead making it available for everyone. Monetisation isnt that important right now but i think a subscription base and sponsorships will be enough. More on the subscription later. I need to check how other websites monetise to get more ideas. 
+
+The design should be simple and clean. Dark mode and light mode. Ill use bulma to make it pretty and i think adding a hint feature would be cool. Something like a light bulb that gives hints or ideas. The mascot/logo will obviously be a cow and im thinking of making the home button a barn. But that might confuse users so ill probably end up sticking with a cow icon. The navbar will have [home icon,  factions, notifications, user profile]. Might add a discover page to showcase some factions and their work. Like twitter ill add a feed where people can moo out some random ideas. Im not sure how this will reach users tho. Maybe a sorting system for different categories or fields where users can follow other users or tags. 
+
+
+Im gonna code the mock up design tomorrow. For now ill just plan everything and make this idea better. 
+
+Ill have to learn Vue js and how to use node for a project like this. Documentng every step seems to be helping me expressing my ideas so far. Hopefully this makes sense because im just laying down what my brain thinks. 
+
+Moomel wont only be for tech ideas or anything just related to programming. I want it to be for musicians and other fields too. Music ideas, website ideas, and even advice for people who need it. I want to add some challenges for collaborative projects and people can compete for a certain prize. 
+
+For Monetisation im thinking users can pay to advertise their projects on our page. Ads will be different for each user(it will match their preferences) The ads will prompt users to join the barn or promote a product. 
+
+Authors can get plot ideas. Musicians can get lyric ideas and music ideas. Programmers can get project ideas. Artists can get art ideas. I know they can from other sources but itll be cool when they can get it all done from one spot.
+
+To summarise ill answer some questions i found about webdev phases.
+
+-What is the purpose of the website?
+An idea hub where users can collaborate with their ideas and make that idea into reality with the help of other users.
+
+-What type of website/app will it be – informational, commercial, product, or service-based?
+All of the above
+
+-What is your target audience?
+Creatives and people who are looking for that one spark of inspiration to take their idea to the next level.
+
+-Is there adequate demand in the market?
+Possibly.
+
+I saw one question that drew my attention. What features will i implement. Im sure ive noted down some features i want to implement. Ill write all of them down once i have fully thought them out.
+
