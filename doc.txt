@@ -42,3 +42,20 @@ Possibly.
 
 I saw one question that drew my attention. What features will i implement. Im sure ive noted down some features i want to implement. Ill write all of them down once i have fully thought them out.
 
+## 3 October 2023
+
+Its the second day now. Ive gotten some more ideas to add. To join a barn the user can use a system similar to tinder. Instead of swiping left or right they can like the post or moo which im gonna probably call it, and itll prompt them to ask to join that barn. Similar to other social networks this will show private and public groups but unlike others we make it a bit more public in way. Its kinda hard to explain but all groups will be visible but some will have privacy settings allowing admins to choose who can join and who can view. \
+
+Ive looked through some frameworks and i think vue will be best as its easier and more versatile(in my opinion). Ill research a bit more about serverside frameworks today. Ill begin production of the basic functions and server side things instead of the ui and ux. Ill do the beautification last however ill make a simple mockup today of how itll look like so ill know how to structure the functions and etc.
+
+To keep everything as original as possible ill have to refrain from using too much insipiration from other websites. Right now reddit looks like what i want this website to look like but with some changes. Looking at reddit I think itll be easy to make a simple clone.
+
+I just downloaded a vue reddit clone im just gonna look around. I want to make this from scratch so ill avoid copying code and only use this as a guide.
+
+Im gonna start reading the vue documentation to get somewhat of an idea on how to use it before starting fully learn it. The reddit clone I found on github doesnt seem to be working. Ill just leave it. 
+
+Bulma is being a slight pain in the ass so might stick to something like tailwind or vanilla css. This will be impossible to make with regular html,css,js so ill stick to learning vue for now. I just lost braincells tryna code a basic layout. It did help me figure out what i want it to look aesthetically. Gonna boot up figma to make the mockups. Figma didnt open (some arch errors about some missing packages) so ill use the web version.
+
+Gonna add some visually pleasing doodles. Maybe not because ill be coding it myself. First ill do a white background possibly a light grey.#F2F2F2 looks good.
+
+First mockup is done. It doesnt look that bad but its obviously not what im trying to make. I want to add images related to the platform so i added some place holder shapes. Ill move the searchbar down and make the Welcome part more interesting. Im gonna add boxes of content similar to github which i can easily do with bulma. Once the user signs up and logs in they will be able to use the app. Without signing in they can only see the information of the website and what we offer. After logging in theyll have a different first page with the ability post ideas and a barns page with the barns of their preference. 
