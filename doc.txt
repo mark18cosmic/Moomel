@@ -59,3 +59,6 @@ Bulma is being a slight pain in the ass so might stick to something like tailwin
 Gonna add some visually pleasing doodles. Maybe not because ill be coding it myself. First ill do a white background possibly a light grey.#F2F2F2 looks good.
 
 First mockup is done. It doesnt look that bad but its obviously not what im trying to make. I want to add images related to the platform so i added some place holder shapes. Ill move the searchbar down and make the Welcome part more interesting. Im gonna add boxes of content similar to github which i can easily do with bulma. Once the user signs up and logs in they will be able to use the app. Without signing in they can only see the information of the website and what we offer. After logging in theyll have a different first page with the ability post ideas and a barns page with the barns of their preference. 
+
+Users should be able to communicate and use third-party platforms with ease. For example a coding barn can make a github to upload their code and use our platform to talk and plan things. I dont think i can implement these third-party features myself so i guess ill wait until i can get access to more programmers. I will list down some features id like but cant implement myself. 
+
