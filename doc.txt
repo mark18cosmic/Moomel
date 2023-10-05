@@ -48,3 +48,21 @@ Gonna add some visually pleasing doodles. Maybe not because ill be coding it mys
 First mockup is done. It doesnt look that bad but its obviously not what im trying to make. I want to add images related to the platform so i added some place holder shapes. Ill move the searchbar down and make the Welcome part more interesting. Im gonna add boxes of content similar to github which i can easily do with bulma. Once the user signs up and logs in they will be able to use the app. Without signing in they can only see the information of the website and what we offer. After logging in theyll have a different first page with the ability post ideas and a barns page with the barns of their preference. 
 Users should be able to communicate and use third-party platforms with ease. For example a coding barn can make a github to upload their code and use our platform to talk and plan things. I dont think i can implement these third-party features myself so i guess ill wait until i can get access to more programmers. I will list down some features id like but cant implement myself. 
 
+## 4 October 2023
+
+Alright day three. Ive gone over this idea with a couple of people and decided to put a halt. This is a really good idea but iwill not be able to implement this myself without any outside help and funding. However, i have made a logo. Learning vue has been a little challenging and itll take more time that i originally anticipated.Im not gonna let go of this idea and ill do my best to do as much as i can by myself. To list down a few things ill need they are:
+
+- A server
+- A database/included with the server
+- Algorithms for specific features
+- A final design
+- Finalize the stack i will use
+- List out the tasks i need to do (i want to use scrum)
+- Join serverside and ui
+- Build the platform
+
+Just finished the first page mockup. It looks so much better than the other iterations. Next ill make an info page because users need to be able to know what this platform is about. Login and signup is done as i implemented it in the first page. Since this is a dynamic website, once youve made an account and signed in youll be greeted to a different home page. Today has been the most productive day so far. Designed two pages. Explore page and welcome page. Tomorrow i plan on finishing atleast 4 more pages and learn vue or whatever. Looking at the design makes me so proud because it proves this can be an actual thing. 
+
+## 5 October 2023
+
+To start the day, i made a simple sitemap. Im gonna use tailwindcss instead of bulma as its much more customisable and has better features suited for this project. Im designing the full architectural design to make everything easier to understand.  
