@@ -65,4 +65,5 @@ Just finished the first page mockup. It looks so much better than the other iter
 
 ## 5 October 2023
 
-To start the day, i made a simple sitemap. Im gonna use tailwindcss instead of bulma as its much more customisable and has better features suited for this project. Im designing the full architectural design to make everything easier to understand.  
+To start the day, i made a simple sitemap. Im gonna use tailwindcss instead of bulma as its much more customisable and has better features suited for this project. Im designing the full architectural design to make everything easier to understand. 
+The course made by project oden is super helpful. I finally understand how to use git.
